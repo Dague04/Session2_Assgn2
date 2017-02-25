@@ -1,0 +1,1 @@
+Write a closure in which outer function that has a parameter is used by inner function which also has a parameter. The operation performed by inner function is to return multiplication of both the parameters value. Call this closure function and alert the multiplication produced by the closure
